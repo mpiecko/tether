@@ -1,7 +1,4 @@
 {
     "name": "mpiecko/tether",
-    "description": "Clone of HubSpot/tether",
-    "type": "library",
-    "homepage": "https://github.com/mpiecko/tether.git",
-    "version": "1.4.0"
+    "description": "Clone of HubSpot/tether"
 } 
